@@ -1,6 +1,6 @@
 # Correlation and regression for data analysis
-## Name: Rohini R
-## Reg No: 212224240138
+## Name: HEMANTH A
+## Reg No: 212223220035
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
